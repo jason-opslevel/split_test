@@ -1,7 +1,7 @@
 ---
 version: 1
 service:
-  name: service awesome
+  name: split_test
   lifecycle:
   tier:
   product:
